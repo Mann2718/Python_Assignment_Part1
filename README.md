@@ -1,5 +1,5 @@
 # Student Grade Tracker — Part 1
-**Course:** B.Tech (ICT)  
+  
 
 ## Overview
 This Python script manages student data, performs marks analysis using core Python concepts (Loops, Conditionals, String Manipulation), and generates class performance reports.
